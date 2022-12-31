@@ -1,0 +1,17 @@
+agm-map {
+    height: 300px;
+    width: 400px;
+}
+.activites-map-section{
+    width: 450px;
+}
+
+
+
+* {
+    font-family: Lato;
+}
+
+a {
+    color: darkblue;
+}
